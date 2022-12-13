@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RrecipesApp</string>
+    <string name="api_key_limited">Api Key Limited.</string>
+    <string name="connection_timeout">Connection TimeOut...</string>
+    <string name="something_wrong">Oops, something went wrong!</string>
+    <string name="check_internet_connection">Couldn\'t reach server, check your internet connection.!</string>
+
+</resources>
